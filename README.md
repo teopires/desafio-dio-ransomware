@@ -1,19 +1,19 @@
-
-Parece que o texto do README perdeu a formatação correta ao ser colado no GitHub. Isso geralmente acontece por conta de quebras de linha e espaços inadequados no Markdown. Vou ajustar o formato para garantir que ele apareça corretamente.
-
-Aqui está a versão ajustada:
-
 🔒 Projeto de Criptografia de Arquivos
+
 Este projeto Python demonstra como criptografar e descriptografar arquivos de maneira eficiente. Ideal para quem deseja aprender conceitos de criptografia simétrica e aplicá-los para proteger arquivos pessoais de forma segura.
 
 🗂 Estrutura do Projeto
+
 encrypter.py: Script para criptografar arquivos.
 decrypter.py: Script para descriptografar arquivos previamente criptografados.
 README.md: Instruções e detalhes do projeto.
+
 🎯 Objetivo
+
 Este projeto foi desenvolvido para oferecer uma solução de criptografia básica, onde você pode criptografar arquivos com uma chave secreta e posteriormente restaurá-los. A ideia é compreender o funcionamento básico da criptografia simétrica.
 
 🚀 Passo a Passo de Uso
+
 1. Clone o Repositório
 Primeiro, faça o clone do projeto para sua máquina local:
 
