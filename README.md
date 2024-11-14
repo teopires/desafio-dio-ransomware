@@ -18,6 +18,36 @@ Este projeto foi desenvolvido para oferecer uma solução de criptografia básic
 
 Primeiro, faça o clone do projeto para sua máquina local:
 
-```bash
+bash
 git clone https://github.com/seu-usuario/nome-do-projeto.git
 cd nome-do-projeto
+
+2. Instale Dependências
+Este projeto utiliza a biblioteca cryptography. Instale-a com:
+
+bash
+Copiar código
+pip install cryptography
+3. Geração de Chave de Criptografia 🔑
+Para iniciar, gere uma chave de criptografia. Esta chave será usada para proteger seus arquivos.
+
+bash
+Copiar código
+python encrypter.py --generate-key
+4. Criptografando um Arquivo 🔐
+Escolha o arquivo que deseja criptografar e execute o comando abaixo. Certifique-se de que a chave foi gerada e está acessível.
+
+bash
+Copiar código
+python encrypter.py --encrypt arquivo.txt
+💡 Dica: Use uma senha ou frase secreta forte para proteger a chave.
+
+5. Descriptografando o Arquivo 🔓
+Para restaurar o arquivo criptografado, use o seguinte comando. Certifique-se de ter a chave gerada disponível.
+
+bash
+Copiar código
+python decrypter.py --decrypt arquivo.txt.enc
+
+
+
