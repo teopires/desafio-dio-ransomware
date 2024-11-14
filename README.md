@@ -1,5 +1,5 @@
-🔒 Desafio DIO Ransomware
-Este projeto Python demonstra como criptografar e descriptografar arquivos de maneira eficiente. Ele é ideal para quem deseja aprender os conceitos de criptografia simétrica e usá-los para proteger arquivos pessoais de forma segura.
+🔒 Projeto de Criptografia de Arquivos
+Este projeto Python demonstra como criptografar e descriptografar arquivos de maneira eficiente. Ideal para quem deseja aprender conceitos de criptografia simétrica e aplicá-los para proteger arquivos pessoais de forma segura.
 
 🗂 Estrutura do Projeto
 encrypter.py: Script para criptografar arquivos.
@@ -49,6 +49,7 @@ bash
 Copiar código
 python encrypter.py --help
 🌈 Exemplo com Animação
+
 Adicione aqui um GIF ou captura de tela mostrando a criptografia em ação.
 
 📝 Observações Importantes
@@ -59,13 +60,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 📄 Licença
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para mais detalhes.
-
-Esse README proporciona uma explicação clara e orientada para o usuário, e você pode personalizá-lo conforme as necessidades específicas do seu projeto. Se precisar de mais ajuda com ajustes ou recursos visuais, é só avisar!
-
-
-
-
-
-
-
 
